@@ -2,20 +2,20 @@
   "name": "goit-js-hw-09",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacaadad22rodemy.github.io/goit-js-hw-09",
+  "homepage": "https://CalinDariaAndreea.github.io/goit-js-hw-09",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --public-url /goit-js-hw-09/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adad22ro/goit-js-hw-09.git"
+    "url": "git+https://github.com/CalinDariaAndreea/goit-js-hw-09.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adad22ro/goit-js-hw-09/issues"
+    "url": "https://github.com/CalinDariaAndreea/goit-js-hw-09/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
